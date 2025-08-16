@@ -1,0 +1,10 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de credenciais e dados
+credentials.json
+cotacoes.db
+
+# Arquivos do Streamlit
+.streamlit/
